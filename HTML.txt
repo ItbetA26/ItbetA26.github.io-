@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <!--Llenar los datos para: Title y Metadata-->
+      <title>Unidad # | Actividad ??</title>
+      <link rel="icon" type="image/x-icon" href="favocon.ico">
+      <meta charset="utf-8">
+      <meta name="Autor" content="Itzel Beatriz Acosta Mendez">
+      <meta name="Fecha" content="???">
+      <meta name="Descripción" content="???">
+    </head>
+    <body>
+    <!--Cambiar el título y colocar el contenido aqui-->
+      <h1>Unidad 1 | Actividad  1 Tema (???)</h1>
+    </body>
+</html>
